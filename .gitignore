@@ -1,0 +1,6 @@
+.backup*
+.overlay-backup
+.translate-cache.json
+__pycache__/
+*.pyc
+*.log
